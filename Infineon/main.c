@@ -8,6 +8,8 @@ void SetColorAndBackground(int ForgC, int BackC);
 
 int main()
 {
+	/*Programm loads a .txt file from the filesystem and applies sorting technique to sort the values and seperates 
+	even values for median calculation*/
     FILE *inputFile;
     int number = 0;
 	
