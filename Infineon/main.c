@@ -10,6 +10,7 @@ int main()
 {
     FILE *inputFile;
     int number = 0;
+	
     int numberOfElements = 29;
     int selectedNumber = 0;
     int i = 0;
